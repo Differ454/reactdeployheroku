@@ -1,1 +1,0 @@
-<?php once_include('index.html'); ?>
